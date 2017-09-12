@@ -1,0 +1,11 @@
+**.unitypackage
+*/bin/**
+/ilc-robot*/**
+*/Library/**
+*/App/**
+*/Debug/**
+*/obj/**
+*/UWP/**
+*/*csproj*
+*/*sln
+**.meta
