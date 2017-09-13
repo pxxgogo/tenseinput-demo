@@ -1,0 +1,11 @@
+----------------count:2
+up:42848
+now:26912
+chazhi15936
+situation1-oringinal wheel[0]:-24
+situation1-new wheel[0]:49575
+up:45967
+now:30032
+chazhi15935
+situation1-oringinal wheel[1]:-10
+situation1-new wheel[1]:49590

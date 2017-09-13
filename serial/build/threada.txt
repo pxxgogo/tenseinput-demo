@@ -1,0 +1,30 @@
+--------------count:3
+up:52668
+now:52590
+chaizhi78
+oringinal wheel[0]:19016
+new wheel[0]:18938
+up:69
+now:65455
+chaizhi-65386
+oringinal wheel[1]:14150
+new wheel[1]:79536
+up:1000
+now:1000
+chaizhi0
+oringinal wheel[2]:0
+new wheel[2]:0
+
+situation2-oringinal wheel[2]:0
+situation2-new wheel[2]:0
+2]:0
+
+
+
+
+
+0
+
+chaizhi0
+situation2-oringinal wheel[2]:0
+situation2-new wheel[2]:0
